@@ -48,6 +48,16 @@ tools: Read, Grep, Bash      # Specific tools (optional - inherits all if omitte
 4. Test with real scenarios
 5. Refine based on performance
 
-## TEMP - Setup Tasks
+## Current Agents
+
+- **security-auditor** - Comprehensive security audit specialist for codebases and systems
+- **code-refactorer** - Code architecture specialist for improving structure and maintainability  
+- **technical-prd-generator** - Transforms simple requirements into detailed technical specifications
+- **technical-docs-writer** - Creates developer-focused documentation (READMEs, API docs, guides)
+- **user-guide-writer** - Writes user-facing documentation for non-technical users
+- **designer** - Expert visual design and frontend development with React/Next.js/Tailwind
+- **danny-voice-writer** - Editorial partner for writing in Danny's distinctive voice
+
+## Resources
 
 See here for more inspiration: https://github.com/wshobson/agents
